@@ -1,0 +1,29 @@
+group 'Optimum'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'groovy'
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    //    compile 'org.codehaus.groovy:groovy-all:2.4.13'
+    compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.14.0'
+//    compile group: 'com.github.igor-suhorukov', name: 'chromedriver', version: '2.34'
+    compile group: 'junit', name: 'junit', version: '4.12'
+
+    // https://mvnrepository.com/artifact/com.beust/jcommander
+    compile group: 'com.beust', name: 'jcommander', version: '1.72'
+
+    // https://mvnrepository.com/artifact/org.beanshell/bsh
+    compile group: 'org.beanshell', name: 'bsh', version: '2.0b5'
+}
+jar {
+    manifest {
+        attributes 'Main-Class': 'tryDirect.MainClass'
+    }
+}
