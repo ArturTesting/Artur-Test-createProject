@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d841aba4-1cfb-4693-945d-137a0211ed62" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tryDirect/forMe/Other.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tryDirect/forMe/Other.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -105,7 +106,7 @@
         <counts>
           <entry key="dummy" value="11" />
           <entry key="gradle" value="6" />
-          <entry key="java" value="13387" />
+          <entry key="java" value="13388" />
           <entry key="properties" value="36" />
           <entry key="xml" value="1" />
         </counts>
@@ -113,7 +114,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="6" />
-          <entry key="JAVA" value="13387" />
+          <entry key="JAVA" value="13388" />
           <entry key="PLAIN_TEXT" value="11" />
           <entry key="Properties" value="36" />
           <entry key="XML" value="1" />
@@ -141,8 +142,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/tryDirect/forMe/Other.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            <state relative-caret-position="170">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -928,9 +929,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49848023" visible="true" weight="0.20149253" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49848023" visible="true" weight="0.20149253" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.50151974" side_tool="true" weight="0.19083156" />
@@ -945,8 +945,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.3275488" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286334" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.2646421" />
       <window_info anchor="bottom" id="Build" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -959,6 +959,32 @@
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -1491,8 +1517,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tryDirect/forMe/Other.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
