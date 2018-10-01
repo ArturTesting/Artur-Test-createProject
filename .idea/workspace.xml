@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d841aba4-1cfb-4693-945d-137a0211ed62" name="Default" comment="" />
+    <list default="true" id="d841aba4-1cfb-4693-945d-137a0211ed62" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/tryDirect/forMe/Other.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tryDirect/forMe/Other.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -72,10 +74,10 @@
           <entry key="project.open.time.22" value="2" />
           <entry key="project.open.time.23" value="2" />
           <entry key="project.open.time.3" value="5" />
-          <entry key="project.open.time.4" value="6" />
+          <entry key="project.open.time.4" value="7" />
           <entry key="project.open.time.5" value="8" />
           <entry key="project.open.time.6" value="5" />
-          <entry key="project.opened" value="138" />
+          <entry key="project.opened" value="139" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -83,7 +85,7 @@
           <entry key="class" value="9" />
           <entry key="exe" value="5" />
           <entry key="gradle" value="7" />
-          <entry key="java" value="637" />
+          <entry key="java" value="638" />
           <entry key="log" value="6" />
           <entry key="properties" value="20" />
           <entry key="xml" value="5" />
@@ -93,7 +95,7 @@
         <counts>
           <entry key="CLASS" value="9" />
           <entry key="Groovy" value="7" />
-          <entry key="JAVA" value="637" />
+          <entry key="JAVA" value="638" />
           <entry key="PLAIN_TEXT" value="11" />
           <entry key="Properties" value="20" />
           <entry key="XML" value="5" />
@@ -103,7 +105,7 @@
         <counts>
           <entry key="dummy" value="11" />
           <entry key="gradle" value="6" />
-          <entry key="java" value="13182" />
+          <entry key="java" value="13387" />
           <entry key="properties" value="36" />
           <entry key="xml" value="1" />
         </counts>
@@ -111,7 +113,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="6" />
-          <entry key="JAVA" value="13182" />
+          <entry key="JAVA" value="13387" />
           <entry key="PLAIN_TEXT" value="11" />
           <entry key="Properties" value="36" />
           <entry key="XML" value="1" />
@@ -124,11 +126,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tryDirect/Tests/ModalWindow.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="704">
               <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tryDirect/forMe/Other.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -182,6 +196,9 @@
     <dirStrings>
       <dir>C:\Users\Dmitry\Downloads\tryDirect\tryDirect\src\main\java\tryDirect\Tests\profile</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -583,13 +600,13 @@
         <option value="$PROJECT_DIR$/src/main/resources/config.properties" />
         <option value="$PROJECT_DIR$/src/main/java/tryDirect/Tests/DashboardInstalation.java" />
         <option value="$PROJECT_DIR$/src/main/java/tryDirect/Tests/TestClasses.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tryDirect/forMe/Other.java" />
         <option value="$PROJECT_DIR$/src/main/java/tryDirect/Tests/CloudProvider.java" />
         <option value="$PROJECT_DIR$/src/main/java/tryDirect/Tests/profile/ProfileTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/tryDirect/PropertiesCollection.java" />
         <option value="$PROJECT_DIR$/src/main/java/tryDirect/Tests/DashboardNavigation.java" />
         <option value="$PROJECT_DIR$/src/main/java/tryDirect/Tests/ModalWindow.java" />
         <option value="$PROJECT_DIR$/src/main/java/tryDirect/Tests/ToolsForModalWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tryDirect/forMe/Other.java" />
       </list>
     </option>
   </component>
@@ -684,7 +701,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="mauticFor&#9;PSI&#9;JAVA://tryDirect.Tests.DomainNameTests#mauticFormulasLinodeTest" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538399949389" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538404611128" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../try.direct" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -720,20 +737,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ModalWindow.EmptyBillingModalChecking">
+  <component name="RunManager" selected="Application.Other">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tryDirect.MainClass" />
+    <configuration name="Other" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tryDirect.forMe.Other" />
       <module name="tryDirect_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tryDirect.*" />
+          <option name="PATTERN" value="tryDirect.forMe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -841,17 +858,17 @@
     <list>
       <item itemvalue="JUnit.ModalWindow.FullBillingModalChecking" />
       <item itemvalue="JUnit.ModalWindow.EmptyBillingModalChecking" />
-      <item itemvalue="Application.MainClass" />
       <item itemvalue="JUnit.CloudProvider.checkAllProvider" />
       <item itemvalue="JUnit.ModalWindow.EmptyCompanyModalChecking" />
+      <item itemvalue="Application.Other" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Other" />
         <item itemvalue="JUnit.ModalWindow.EmptyBillingModalChecking" />
         <item itemvalue="JUnit.ModalWindow.FullBillingModalChecking" />
         <item itemvalue="JUnit.ModalWindow.EmptyCompanyModalChecking" />
         <item itemvalue="JUnit.CloudProvider.checkAllProvider" />
-        <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -913,7 +930,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49848023" visible="true" weight="0.19936034" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49848023" visible="true" weight="0.20149253" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.50151974" side_tool="true" weight="0.19083156" />
@@ -928,7 +945,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.3275488" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286334" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.2646421" />
       <window_info anchor="bottom" id="Build" order="11" />
@@ -1312,13 +1329,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tryDirect/forMe/Other.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tryDirect/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1466,9 +1476,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="656">
           <caret line="55" column="49" selection-start-line="55" selection-start-column="49" selection-end-line="55" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1476,6 +1483,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="704">
           <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tryDirect/forMe/Other.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
