@@ -34,6 +34,12 @@ public class DashboardNavigation {
             case "Upcloud":
                 PropertiesCollection.GetDrivers().findElements(By.xpath("//div[@class='clearfix text-center']//ul[@class='hide-bullets']/li//img[contains(@src, '/img/partners/upcloud.png')]//..")).get(0).click();
                 break;
+           case "Hetzner":
+                PropertiesCollection.GetDrivers().findElements(By.xpath("//div[@class='clearfix text-center']//ul[@class='hide-bullets']/li//img[contains(@src, '/img/partners/hetzner.png')]//..")).get(0).click();
+                break;
+           case "Scaleway":
+                PropertiesCollection.GetDrivers().findElements(By.xpath("//div[@class='clearfix text-center']//ul[@class='hide-bullets']/li//img[contains(@src, '/img/partners/scaleway.png')]//..")).get(0).click();
+                break;
             default:
                 PropertiesCollection.GetDrivers().findElements(By.xpath("//div[@class='clearfix text-center']//ul[@class='hide-bullets']/li//b[contains(text(),'" + cloudName + "')]")).get(0).click();
                 break;

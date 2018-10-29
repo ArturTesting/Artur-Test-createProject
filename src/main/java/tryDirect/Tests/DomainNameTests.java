@@ -66,7 +66,7 @@ public class DomainNameTests {
         Login authorized = new Login();
         authorized.login();
         DashboardNavigation navigation = new DashboardNavigation();
-        navigation.installButtonClick("Mautic formula");
+        navigation.installButtonClick("Mautic Formula");
         navigation.chooseCloudProvider("Launch on your own server");
         DashboardInstalation dashboardInstalation = new DashboardInstalation();
         dashboardInstalation.fillingDomainName();
@@ -84,7 +84,8 @@ public class DomainNameTests {
         Login authorized = new Login();
         authorized.login();
         DashboardNavigation navigation = new DashboardNavigation();
-        navigation.installButtonClick("Mautic formula");
+        Thread.sleep(5000);
+        navigation.installButtonClick("Mautic Formula");
         navigation.chooseCloudProvider("Scaleway");
         DashboardInstalation dashboardInstalation = new DashboardInstalation();
         dashboardInstalation.fillingDomainName();
