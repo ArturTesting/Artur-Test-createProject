@@ -29,7 +29,6 @@ public class ToolsForModalWindow {
         providerName.put(9, "Own");
         return providerName.get(numberName);
     }
-
     static void actionsWithBillingAndMovingToStack(String fields) throws Exception {
         if (fields.equals("fill")) {
             move.fillBilling();  // Заполнение Биллинга
